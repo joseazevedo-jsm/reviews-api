@@ -1,0 +1,359 @@
+[
+  {
+    "text": "My experience with Smartphone XYZ has been outstanding! The camera quality is beyond amazing, and the battery life exceeds my expectations. The sleek design is a perfect blend of style and functionality.",
+    "embeddings_pca": [-0.09094657, 0.1483115405],
+    "embeddings_umap": [7.2414979935, -5.7266259193],
+    "cluster_id": -1,
+    "cluster_label": "Uncategorized"
+  },
+  {
+    "text": "Smartphone XYZ sets a new standard for innovation. The cutting-edge features, especially the AI-enhanced camera, make it a top choice for photography enthusiasts. The only drawback is the slightly below-average battery life.",
+    "embeddings_pca": [-0.2096825242, 0.1401354671],
+    "embeddings_umap": [7.6237068176, -7.2267808914],
+    "cluster_id": -1,
+    "cluster_label": "Uncategorized"
+  },
+  {
+    "text": "The performance of Smartphone XYZ is exceptional, and the sleek design makes it stand out. While the battery life is decent, the speaker quality could be improved for a more immersive audio experience.",
+    "embeddings_pca": [-0.2232522368, 0.4744627774],
+    "embeddings_umap": [7.4410281181, -6.4371099472],
+    "cluster_id": 0,
+    "cluster_label": "Mixed: Sleek design, battery concerns, impressive build."
+  },
+  {
+    "text": "I had high hopes for Smartphone XYZ, but it fell short of expectations. The screen resolution is not up to par, and the software feels sluggish. The camera performance is acceptable, but not extraordinary.",
+    "embeddings_pca": [0.0842529237, -0.0214764308],
+    "embeddings_umap": [8.9013834, -3.7004215717],
+    "cluster_id": 7,
+    "cluster_label": "Mixed Reviews: Camera and battery vary."
+  },
+  {
+    "text": "Smartphone XYZ is not my preferred choice. The camera quality disappoints, and the battery life leaves much to be desired. I strongly advise against purchasing this model.",
+    "embeddings_pca": [-0.0617536306, -0.1093407795],
+    "embeddings_umap": [9.4698381424, -5.3748703003],
+    "cluster_id": 9,
+    "cluster_label": "Poor camera, short battery life"
+  },
+  {
+    "text": "I'm dissatisfied with Smartphone XYZ. The camera quality is subpar, and the battery drains faster than expected. The promised features don't live up to the hype. Regretting my purchase.",
+    "embeddings_pca": [0.0477158464, -0.0093584834],
+    "embeddings_umap": [8.251742363, -4.7703747749],
+    "cluster_id": 7,
+    "cluster_label": "Mixed Reviews: Camera and battery vary."
+  },
+  {
+    "text": "Smartphone XYZ exceeded my expectations! The camera quality is exceptional, and the battery life is impressive. The sleek design adds a touch of sophistication.",
+    "embeddings_pca": [0.1087666973, 0.0736280903],
+    "embeddings_umap": [6.7893280983, -4.6974034309],
+    "cluster_id": -1,
+    "cluster_label": "Uncategorized"
+  },
+  {
+    "text": "I'm in love with the features of Smartphone XYZ! The user interface is intuitive, and the camera captures stunning photos. The battery life is decent for my daily usage.",
+    "embeddings_pca": [0.0274458043, -0.0371951647],
+    "embeddings_umap": [7.2812418938, -4.6886787415],
+    "cluster_id": 7,
+    "cluster_label": "Mixed Reviews: Camera and battery vary."
+  },
+  {
+    "text": "Smartphone XYZ is a great device overall. The performance is smooth, and the camera delivers good results. The battery life meets my expectations for day-to-day activities.",
+    "embeddings_pca": [-0.1772063375, 0.0611786731],
+    "embeddings_umap": [7.4242086411, -6.8932447433],
+    "cluster_id": -1,
+    "cluster_label": "Uncategorized"
+  },
+  {
+    "text": "I find Smartphone XYZ to be a reliable companion. The software is stable, and the battery lasts throughout the day. The camera performance is satisfactory for my needs.",
+    "embeddings_pca": [0.0287634451, -0.1657716185],
+    "embeddings_umap": [8.7241573334, -7.1481494904],
+    "cluster_id": 3,
+    "cluster_label": "Mixed feelings about camera and software."
+  },
+  {
+    "text": "Smartphone XYZ is a solid choice for photography enthusiasts. The AI camera features enhance the photo quality, and the fast performance ensures a seamless user experience.",
+    "embeddings_pca": [-0.2207256407, 0.0062217689],
+    "embeddings_umap": [7.3366322517, -7.5880069733],
+    "cluster_id": 4,
+    "cluster_label": "Great value for photography and daily use"
+  },
+  {
+    "text": "I'm impressed by the build quality of Smartphone XYZ. The device feels premium, and the high-resolution display is a delight for multimedia consumption.",
+    "embeddings_pca": [0.0658246651, 0.3141754568],
+    "embeddings_umap": [7.5062227249, -5.1135473251],
+    "cluster_id": 0,
+    "cluster_label": "Mixed: Sleek design, battery concerns, impressive build."
+  },
+  {
+    "text": "Smartphone XYZ is a mixed bag for me. While the camera performance is good, the battery life is mediocre. The software occasionally lags, affecting the overall experience.",
+    "embeddings_pca": [-0.044988092, -0.0100560598],
+    "embeddings_umap": [8.4530382156, -6.2847099304],
+    "cluster_id": 10,
+    "cluster_label": "Inconsistent camera and battery performance."
+  },
+  {
+    "text": "The design of Smartphone XYZ is sleek and modern. However, the software needs optimization, and the battery drains faster than expected.",
+    "embeddings_pca": [-0.1490568668, 0.3901311457],
+    "embeddings_umap": [7.9180617332, -6.5924434662],
+    "cluster_id": 0,
+    "cluster_label": "Mixed: Sleek design, battery concerns, impressive build."
+  },
+  {
+    "text": "I'm undecided about Smartphone XYZ. The camera features are impressive, but the software glitches need attention. The battery life is acceptable for everyday use.",
+    "embeddings_pca": [0.0707506239, -0.1538248658],
+    "embeddings_umap": [8.6767473221, -4.6808190346],
+    "cluster_id": 3,
+    "cluster_label": "Mixed feelings about camera and software."
+  },
+  {
+    "text": "Smartphone XYZ is a disappointment for me. The camera quality doesn't meet my expectations, and the battery drains quickly. I regret choosing this model.",
+    "embeddings_pca": [-0.0878730789, -0.0333058313],
+    "embeddings_umap": [9.2619256973, -5.5233159065],
+    "cluster_id": 10,
+    "cluster_label": "Inconsistent camera and battery performance."
+  },
+  {
+    "text": "The sleek design of Smartphone XYZ caught my eye, but the software performance is below par. The camera features are decent, but the overall experience falls short.",
+    "embeddings_pca": [0.2457179725, 0.0562950969],
+    "embeddings_umap": [8.6398267746, -3.1407423019],
+    "cluster_id": 2,
+    "cluster_label": "Mixed: Sleek design, subpar software, decent camera."
+  },
+  {
+    "text": "Smartphone XYZ is a reliable choice for basic usage. The battery life is good, and the camera performs adequately. However, it may not meet the needs of power users.",
+    "embeddings_pca": [-0.2374823242, -0.0821444839],
+    "embeddings_umap": [8.3165407181, -7.9621987343],
+    "cluster_id": 5,
+    "cluster_label": "Reliable budget smartphone with good battery and camera"
+  },
+  {
+    "text": "I'm satisfied with the overall performance of Smartphone XYZ. The camera captures clear images, and the battery life lasts through my workday.",
+    "embeddings_pca": [0.1611685306, -0.0197952557],
+    "embeddings_umap": [6.705915451, -3.957682848],
+    "cluster_id": 6,
+    "cluster_label": "Satisfying camera and battery performance"
+  },
+  {
+    "text": "Smartphone XYZ is a decent option for those on a budget. The camera quality is acceptable, and the battery life is sufficient for casual use.",
+    "embeddings_pca": [-0.1236848459, -0.2492150962],
+    "embeddings_umap": [6.8225154877, -6.3480572701],
+    "cluster_id": -1,
+    "cluster_label": "Uncategorized"
+  },
+  {
+    "text": "I expected more from Smartphone XYZ. The camera features are average, and the software tends to lag. The battery life could be improved for better usability.",
+    "embeddings_pca": [0.4199558794, 0.0667609125],
+    "embeddings_umap": [7.5672860146, -3.1956143379],
+    "cluster_id": 1,
+    "cluster_label": "Average camera, inconsistent software, needs better battery."
+  },
+  {
+    "text": "Smartphone XYZ offers excellent value for the price. The camera features are surprisingly good, and the battery life meets the demands of my daily routine.",
+    "embeddings_pca": [-0.1811681241, -0.016669821],
+    "embeddings_umap": [7.0851202011, -6.8724985123],
+    "cluster_id": 4,
+    "cluster_label": "Great value for photography and daily use"
+  },
+  {
+    "text": "I'm not happy with Smartphone XYZ. The camera performance is disappointing, and the battery drains faster than expected. Not recommended.",
+    "embeddings_pca": [-0.0346529111, -0.0765839741],
+    "embeddings_umap": [9.142868042, -5.1720371246],
+    "cluster_id": 9,
+    "cluster_label": "Poor camera, short battery life"
+  },
+  {
+    "text": "Smartphone XYZ falls short of my expectations. The camera quality is subpar, and the promised features don't live up to the hype. Regretting my purchase.",
+    "embeddings_pca": [0.0047599333, 0.0322120525],
+    "embeddings_umap": [8.0466928482, -5.149333477],
+    "cluster_id": 8,
+    "cluster_label": "Subpar camera and software performance"
+  },
+  {
+    "text": "I regret choosing Smartphone XYZ. The software is buggy, and the camera features don't match the advertised capabilities. The overall experience is unsatisfactory.",
+    "embeddings_pca": [0.0885362774, -0.1653374135],
+    "embeddings_umap": [9.2553195953, -3.8864581585],
+    "cluster_id": 3,
+    "cluster_label": "Mixed feelings about camera and software."
+  },
+  {
+    "text": "Smartphone XYZ is not living up to the hype. The camera lacks clarity, and the battery life is a letdown. I wouldn't recommend this model to others.",
+    "embeddings_pca": [-0.0077693686, 0.0176480263],
+    "embeddings_umap": [8.9102153778, -5.468351841],
+    "cluster_id": 8,
+    "cluster_label": "Subpar camera and software performance"
+  },
+  {
+    "text": "The sleek design of Smartphone XYZ is appealing, but the camera performance is disappointing. The battery life is below average, impacting the overall user experience.",
+    "embeddings_pca": [-0.0955537707, 0.1217108741],
+    "embeddings_umap": [7.8647232056, -6.2545046806],
+    "cluster_id": -1,
+    "cluster_label": "Uncategorized"
+  },
+  {
+    "text": "I'm dissatisfied with Smartphone XYZ. The camera quality doesn't meet my expectations, and the software glitches are frustrating. Considering other options.",
+    "embeddings_pca": [0.0707693323, -0.1782508641],
+    "embeddings_umap": [9.4225578308, -3.5649120808],
+    "cluster_id": 3,
+    "cluster_label": "Mixed feelings about camera and software."
+  },
+  {
+    "text": "Smartphone XYZ is a reliable choice for basic users. The battery life is commendable, and the camera features are suitable for everyday photography.",
+    "embeddings_pca": [-0.2555646002, -0.0582884438],
+    "embeddings_umap": [8.1605024338, -7.272321701],
+    "cluster_id": 5,
+    "cluster_label": "Reliable budget smartphone with good battery and camera"
+  },
+  {
+    "text": "I'm happy with my purchase of Smartphone XYZ. The camera captures vibrant photos, and the battery life is sufficient for my needs. The sleek design is a bonus.",
+    "embeddings_pca": [0.1303628087, -0.0928597897],
+    "embeddings_umap": [6.4482221603, -4.3640160561],
+    "cluster_id": 6,
+    "cluster_label": "Satisfying camera and battery performance"
+  },
+  {
+    "text": "I expected more from Smartphone XYZ. The camera quality is average, and the software performance is inconsistent. The battery life could be improved.",
+    "embeddings_pca": [0.4251756966, 0.0877837464],
+    "embeddings_umap": [7.3494210243, -2.9803304672],
+    "cluster_id": 1,
+    "cluster_label": "Average camera, inconsistent software, needs better battery."
+  },
+  {
+    "text": "Smartphone XYZ is a disappointment. The camera doesn't perform well in low light conditions, and the battery life is below par. Considering returning it.",
+    "embeddings_pca": [-0.1127622426, -0.1106823757],
+    "embeddings_umap": [9.2005691528, -5.9131798744],
+    "cluster_id": 9,
+    "cluster_label": "Poor camera, short battery life"
+  },
+  {
+    "text": "I'm impressed by the design of Smartphone XYZ, but the software needs optimization. The camera features are decent, but occasional lags impact the user experience.",
+    "embeddings_pca": [0.230199784, 0.0237341449],
+    "embeddings_umap": [8.7885293961, -3.0504701138],
+    "cluster_id": 2,
+    "cluster_label": "Mixed: Sleek design, subpar software, decent camera."
+  },
+  {
+    "text": "Smartphone XYZ is a reliable device for daily use. The battery life is good, and the camera captures clear images. The sleek design adds to its appeal.",
+    "embeddings_pca": [-0.233951062, 0.0234103575],
+    "embeddings_umap": [8.2495994568, -7.5165734291],
+    "cluster_id": 4,
+    "cluster_label": "Great value for photography and daily use"
+  },
+  {
+    "text": "I find Smartphone XYZ to be a budget-friendly option. The camera quality is satisfactory, and the battery life meets my needs for casual usage.",
+    "embeddings_pca": [-0.0372362956, -0.2431862205],
+    "embeddings_umap": [6.5070543289, -6.27947855],
+    "cluster_id": -1,
+    "cluster_label": "Uncategorized"
+  },
+  {
+    "text": "Smartphone XYZ is a good investment. The camera features are top-notch, and the battery life lasts through my busy day. The sleek design is an added bonus.",
+    "embeddings_pca": [-0.065182589, -0.0428742394],
+    "embeddings_umap": [6.4601550102, -5.6862940788],
+    "cluster_id": 10,
+    "cluster_label": "Inconsistent camera and battery performance."
+  },
+  {
+    "text": "I'm satisfied with the performance of Smartphone XYZ. The camera captures clear photos, and the battery life is sufficient for my daily tasks.",
+    "embeddings_pca": [0.1540586948, -0.0658777356],
+    "embeddings_umap": [6.4764461517, -3.9456245899],
+    "cluster_id": 6,
+    "cluster_label": "Satisfying camera and battery performance"
+  },
+  {
+    "text": "Smartphone XYZ is a disappointment. The camera quality is subpar, and the battery life falls short of my expectations. Considering alternative models.",
+    "embeddings_pca": [-0.0578009598, -0.0408611856],
+    "embeddings_umap": [9.6558303833, -5.8442025185],
+    "cluster_id": 10,
+    "cluster_label": "Inconsistent camera and battery performance."
+  },
+  {
+    "text": "I'm thrilled with the features of Smartphone XYZ! The camera performance is outstanding, and the battery life exceeds my expectations. A great purchase.",
+    "embeddings_pca": [0.0574197173, 0.0235293135],
+    "embeddings_umap": [6.9366693497, -4.6260643005],
+    "cluster_id": 7,
+    "cluster_label": "Mixed Reviews: Camera and battery vary."
+  },
+  {
+    "text": "Smartphone XYZ is a reliable choice for users on a budget. The camera features are acceptable, and the battery life meets the demands of everyday use.",
+    "embeddings_pca": [-0.2818448544, -0.0221946742],
+    "embeddings_umap": [7.6609864235, -7.6308550835],
+    "cluster_id": 5,
+    "cluster_label": "Reliable budget smartphone with good battery and camera"
+  },
+  {
+    "text": "The design of Smartphone XYZ is elegant, but the software performance is lacking. The camera features are decent, but occasional glitches affect the user experience.",
+    "embeddings_pca": [0.0167641565, 0.0629232675],
+    "embeddings_umap": [9.0860805511, -3.1361892223],
+    "cluster_id": 8,
+    "cluster_label": "Subpar camera and software performance"
+  },
+  {
+    "text": "Smartphone XYZ is a letdown for me. The camera quality doesn't meet my standards, and the software tends to freeze. The battery life is disappointing.",
+    "embeddings_pca": [0.0160667077, -0.0873885825],
+    "embeddings_umap": [9.3544816971, -4.6615333557],
+    "cluster_id": 7,
+    "cluster_label": "Mixed Reviews: Camera and battery vary."
+  },
+  {
+    "text": "I'm undecided about Smartphone XYZ. The camera features are impressive, but the battery life falls short. The software performance could be better.",
+    "embeddings_pca": [0.0899469182, -0.1591688246],
+    "embeddings_umap": [8.7171134949, -4.3549108505],
+    "cluster_id": 3,
+    "cluster_label": "Mixed feelings about camera and software."
+  },
+  {
+    "text": "Smartphone XYZ is a disappointment. The camera doesn't live up to the advertised capabilities, and the battery life is below average. Considering alternatives.",
+    "embeddings_pca": [-0.0945001617, -0.0966084823],
+    "embeddings_umap": [9.1097764969, -6.0852274895],
+    "cluster_id": 9,
+    "cluster_label": "Poor camera, short battery life"
+  },
+  {
+    "text": "I'm impressed by the sleek design of Smartphone XYZ, but the camera performance is disappointing. The battery life doesn't last as long as I expected.",
+    "embeddings_pca": [0.1909156442, 0.0563426018],
+    "embeddings_umap": [7.1698555946, -4.1592965126],
+    "cluster_id": 2,
+    "cluster_label": "Mixed: Sleek design, subpar software, decent camera."
+  },
+  {
+    "text": "Smartphone XYZ offers great value for the price. The camera features are surprisingly good, and the battery life meets my needs for daily tasks.",
+    "embeddings_pca": [-0.1638337523, -0.0532554984],
+    "embeddings_umap": [6.8648724556, -7.0329947472],
+    "cluster_id": 4,
+    "cluster_label": "Great value for photography and daily use"
+  },
+  {
+    "text": "I expected more from Smartphone XYZ. The camera quality is average, and the software tends to lag. The battery life could be improved for better usability.",
+    "embeddings_pca": [0.4476553202, 0.0897289366],
+    "embeddings_umap": [7.3858923912, -2.8163228035],
+    "cluster_id": 1,
+    "cluster_label": "Average camera, inconsistent software, needs better battery."
+  },
+  {
+    "text": "Smartphone XYZ is a reliable device for basic users. The camera captures clear images, and the battery life is suitable for everyday use.",
+    "embeddings_pca": [-0.2900318205, -0.001586152],
+    "embeddings_umap": [8.1844005585, -7.794380188],
+    "cluster_id": 5,
+    "cluster_label": "Reliable budget smartphone with good battery and camera"
+  },
+  {
+    "text": "I'm happy with my purchase of Smartphone XYZ. The camera features are impressive, and the battery life lasts throughout my busy day. The sleek design is a plus.",
+    "embeddings_pca": [0.0902636349, -0.0219396632],
+    "embeddings_umap": [6.2394509315, -4.5943665504],
+    "cluster_id": 7,
+    "cluster_label": "Mixed Reviews: Camera and battery vary."
+  },
+  {
+    "text": "Smartphone XYZ is a well-rounded device. The camera quality is satisfactory, and the software operates smoothly. The battery life is reliable for everyday use.",
+    "embeddings_pca": [-0.159927696, 0.0669896528],
+    "embeddings_umap": [8.4276762009, -7.5213336945],
+    "cluster_id": -1,
+    "cluster_label": "Uncategorized"
+  },
+  {
+    "text": "I expected more from Smartphone XYZ. The camera quality is average, and the software performance is inconsistent. The battery life could be improved.",
+    "embeddings_pca": [0.425175637, 0.0877837539],
+    "embeddings_umap": [7.6977458, -2.9617810249],
+    "cluster_id": 1,
+    "cluster_label": "Average camera, inconsistent software, needs better battery."
+  }
+]
